@@ -34,3 +34,4 @@ Data Visualization
 Data Cleaning & Transformation
 
 6.Screenshot
+https://github.com/truptiofficial06/Tira-Beauty-Dashboard/blob/main/Screenshot%202026-04-25%20162904.png
